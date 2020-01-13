@@ -1,0 +1,12 @@
+spring:
+  redis:
+    cluster:
+      nodes:
+        - www.isuyu.cn:7000
+        - www.isuyu.cn:7001
+        - www.isuyu.cn:7002
+        - www.isuyu.cn:7003
+        - www.isuyu.cn:7004
+        - www.isuyu.cn:7005
+    database: 0
+    password:
